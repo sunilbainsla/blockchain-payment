@@ -11,7 +11,7 @@ public class MainTest {
         ArrayList<Block> distributedBlockchain2 = (ArrayList<Block>) distributedBlockchain1.clone();
         ArrayList<Block> distributedBlockchain3 = (ArrayList<Block>) distributedBlockchain2.clone();
         System.out.println("distributedBlockchain2 " + distributedBlockchain2);
-        System.out.println("distributedBlockchain3 4444444444444444444444" + distributedBlockchain3);
+        System.out.println("distributedBlockchain3 32142143214324t3524t322r342424r324242r4" + distributedBlockchain3);
 
     }
 
